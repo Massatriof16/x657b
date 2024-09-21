@@ -159,3 +159,5 @@ $(TARGET_OUT_SHARED_LIBRARIES)/libkeymaster_messages \
 $(TARGET_OUT_SHARED_LIBRARIES)/libkeymaster_messages.so \
 $(TARGET_OUT_SHARED_LIBRARIES)/libkeymaster_portable \
 $(TARGET_OUT_SHARED_LIBRARIES)/libkeymaster_portable.so \
+$(TARGET_OUT_SHARED_LIBRARIES)/libimsg_log \
+$(TARGET_OUT_SHARED_LIBRARIES)/libimsg_log.so \
