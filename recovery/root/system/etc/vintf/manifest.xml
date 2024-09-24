@@ -87,14 +87,6 @@
         <name>netutils-wrapper</name>
         <version>1.0</version>
     </hal>
-    <hal format="hidl">
-        <name>android.hardware.gatekeeper</name>
-        <version>1.0</version>
-        <interface>
-            <name>IGatekeeper</name>
-            <instance>default</instance>
-        </interface>
-    </hal>
     <system-sdk>
         <version>28</version>
         <version>29</version>
