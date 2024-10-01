@@ -1,4 +1,4 @@
-ro.crypto.state=encrypted
+
 ro.hardware=mt6761
 ro.hardware.kmsetkey=beanpod
 ro.hardware.gatekeeper=beanpod
