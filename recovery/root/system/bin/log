@@ -1,0 +1,6 @@
+echo " Getting Log... "
+echo " "
+cp -r /tmp/recovery.log /data/recovery.log
+logcat -d > logcat_recovery.txt
+echo " "
+echo " Done ! "
